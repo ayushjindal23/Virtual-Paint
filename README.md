@@ -16,4 +16,3 @@ To run the code, type
 ```
 python Virtual Paint.py
 ```
-
